@@ -1,2 +1,2 @@
-# react_project
-collaboration with my friend krishna making our first react project
+## TrackZen
+A Productivity Web App made with React JS !
